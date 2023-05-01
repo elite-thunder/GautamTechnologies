@@ -1,7 +1,7 @@
 ![avatar](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/100987552&h=300](https://avatars.githubusercontent.com/u/100987552?v=4)&w=300&fit=cover&mask=circle&maxage=7d
 )
 
-<p><em>A learning developer at <a href="https://devsdenepal.github.io">Devs d`e Nepal</a>. 😊</br>
+<p><em>Unofficial account of <a href="https://devsdenepal.github.io">Dev. Gautam Kumar</a>. 😊</br>
 </em></p>
 
 
